@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ReAl_Age_Classification" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_operators.Java068_ReAl_Age_Classification" />
+    <module name="ATB 14X" />
+    <option name="PROGRAM_PARAMETERS" value="68" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
